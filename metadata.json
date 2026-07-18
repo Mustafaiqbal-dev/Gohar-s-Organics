@@ -1,0 +1,6 @@
+{
+  "name": "Gohar's Organics",
+  "description": "A modern, premium brand website for Gohar's Organics, featuring organic skincare made with love, dermatologist tested, and crafted in Karachi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
